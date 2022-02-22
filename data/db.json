@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Povtoruvanjeto e majka na znaenjeto.",
+      "author": "nekoj",
+      "id": 1
+    },
+    {
+      "title": "Blade Runner 2049",
+      "body": "Dying for the right cause...",
+      "author": "pisatel",
+      "id": 2
+    },
+    {
+      "title": "Ready Player One",
+      "body": "You don\"t live in the real world, Z.",
+      "author": "pisatel",
+      "id": 3
+    },
+    {
+      "title": "BlogTest",
+      "body": "This is a test blog",
+      "author": "Misko",
+      "id": 6
+    },
+    {
+      "title": "Boris blog",
+      "body": "Blog boris",
+      "author": "Boris",
+      "id": 7
+    }
+  ]
+}
